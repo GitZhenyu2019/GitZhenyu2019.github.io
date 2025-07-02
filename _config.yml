@@ -25,11 +25,11 @@ author:
   avatar           : "new portrait.png"
   name             : "Zhenyu Yao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "NTU"
+  location         : "Singapore"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "YAOZ0012@e.ntu.edu.sg" 
 
   # Academic websites
   academia         : # URL
